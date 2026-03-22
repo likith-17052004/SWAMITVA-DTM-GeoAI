@@ -52,7 +52,7 @@ Enhancements:
 * Data normalization and augmentation
 * Class balancing for imbalanced terrain classes
 * Batch-wise training for scalability
-
+```
 ---
 
 ## 📂 Repository Structure
