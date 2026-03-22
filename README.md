@@ -173,5 +173,3 @@ If you're interested in collaborating, contributing, or joining our product deve
 
 Feel free to reach out if you're interested in contributing, have ideas for improvements, or want to discuss potential applications of this work.
 
-```
-
