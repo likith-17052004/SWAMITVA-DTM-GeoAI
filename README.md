@@ -92,7 +92,6 @@ python src/inference.py --input data/sample.las
 bash
 python src/dtm.py --input outputs/classified_points.las
 
-```
 
 ---
 
