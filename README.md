@@ -52,28 +52,26 @@ Enhancements:
 * Data normalization and augmentation
 * Class balancing for imbalanced terrain classes
 * Batch-wise training for scalability
-```
----
+
 
 ## 📂 Repository Structure
-
-```
 ├── training.ipynb   # Training notebook (PointNet implementation)
 ├── requirements.txt         # Dependencies
 └── README.md
-```
+
 
 ---
 
 ## ⚙️ Installation
 
-```
+
 bash
 git clone https://github.com/likith-17052004/SWAMITVA-DTM-GeoAI.git
 cd SWAMITVA-DTM-GeoAI
 pip install -r requirements.txt
 
 ```
+
 
 ---
 
