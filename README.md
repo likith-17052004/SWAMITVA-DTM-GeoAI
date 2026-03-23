@@ -72,6 +72,7 @@ bash
 git clone https://github.com/likith-17052004/SWAMITVA-DTM-GeoAI.git
 cd SWAMITVA-DTM-GeoAI
 pip install -r requirements.txt
+
 ```
 
 ---
@@ -80,18 +81,21 @@ pip install -r requirements.txt
 
 ### 1. Train the Model
 
-```bash
+```
+bash
 python src/train.py --config configs/train.yaml
 ```
 
 ### 2. Run Inference
 
-```bash
+```
+bash
 python src/inference.py --input data/sample.las
 ```
-
+```
 bash
 python src/dtm.py --input outputs/classified_points.las
+```
 
 
 ---
