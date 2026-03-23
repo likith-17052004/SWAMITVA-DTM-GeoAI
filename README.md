@@ -67,11 +67,12 @@ Enhancements:
 
 ## ⚙️ Installation
 
-```bash
+```
+bash
 git clone https://github.com/likith-17052004/SWAMITVA-DTM-GeoAI.git
 cd SWAMITVA-DTM-GeoAI
 pip install -r requirements.txt
-````
+```
 
 ---
 
