@@ -59,7 +59,7 @@ Enhancements:
 ├── requirements.txt         # Dependencies
 └── README.md
 
-
+```
 ---
 
 ## ⚙️ Installation
